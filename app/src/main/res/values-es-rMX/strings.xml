@@ -15,7 +15,7 @@
     <string name="game_detail_edit_title">Editar Juego</string>
     <string name="game_detail_edit_save_btn">Guardar Cambios</string>
     <string name="game_detail_edit_title_field">Título</string>
-    <string name="top_bar_serach">Buscar Juegos...</string>
+    <string name="top_bar_serach">Buscar Juegos…</string>
     <string name="top_bar_search">Buscar</string>
     <string name="top_bar_back">Atrás</string>
     <string name="game_list_btn_decription">Abrir Categorías</string>
