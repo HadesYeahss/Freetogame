@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Freetogame</string>
+    <string name="game_list_title">Game List</string>
+    <string name="game_list_select_category">Select Category</string>
+    <string name="game_detail_title">Edit changes</string>
+    <string name="game_detail_delete_btn">Delete game</string>
+    <string name="game_detail_gnre_label">Genre</string>
+    <string name="game_detail_platform_label">Plataform</string>
+    <string name="game_detail_publisher_label">Publisher</string>
+    <string name="game_detail_developer_label">Developer</string>
+    <string name="game_detail_release_date_label">Release date</string>
+    <string name="game_detail_navigator_label">Open in navigator</string>
+    <string name="game_detail_diable_label">Disable</string>
+    <string name="game_detail_short_desctiption_label">Short description</string>
+    <string name="game_detail_edit_title">Edit game</string>
+    <string name="game_detail_edit_save_btn">Save changes</string>
+    <string name="game_detail_edit_title_field">Title</string>
+    <string name="top_bar_serach">Search games...</string>
+    <string name="top_bar_search">Search</string>
+    <string name="top_bar_back">Back</string>
+    <string name="game_list_btn_decription">Open categories</string>
+    <string name="game_list_empty_list">No abliable games</string>
+</resources>
