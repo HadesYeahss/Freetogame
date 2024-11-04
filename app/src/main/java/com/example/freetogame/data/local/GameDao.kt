@@ -58,7 +58,8 @@ interface GameDao {
         OR shortDescription LIKE '%' || :query || '%' 
         OR publisher LIKE '%' || :query || '%'
         OR platform LIKE '%' || :query || '%'
-        OR genre LIKE '%' || :query || '%')
+        OR genre LIKE '%' || :query || '%'
+        OR strftime('%Y', releaseDate / 1000, 'unixepoch') LIKE '%' || :query || '%')
     """
     )
     fun getGamesByCategoryAndSearch(category: String?, query: String): Flow<List<Game>>

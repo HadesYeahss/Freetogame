@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FreeToGame</string>
+    <string name="game_list_title">Lista de Juegos</string>
+    <string name="game_list_select_category">Seleccionar Categoría</string>
+    <string name="game_detail_title">Editar Cambios</string>
+    <string name="game_detail_delete_btn">Eliminar Juego</string>
+    <string name="game_detail_gnre_label">Género</string>
+    <string name="game_detail_platform_label">Plataforma</string>
+    <string name="game_detail_publisher_label">Editor</string>
+    <string name="game_detail_developer_label">Desarrollador</string>
+    <string name="game_detail_release_date_label">Fecha de Lanzamiento</string>
+    <string name="game_detail_navigator_label">Abrir en el Navegador</string>
+    <string name="game_detail_diable_label">Deshabilitar</string>
+    <string name="game_detail_short_desctiption_label">Descripción Corta</string>
+    <string name="game_detail_edit_title">Editar Juego</string>
+    <string name="game_detail_edit_save_btn">Guardar Cambios</string>
+    <string name="game_detail_edit_title_field">Título</string>
+    <string name="top_bar_serach">Buscar Juegos...</string>
+    <string name="top_bar_search">Buscar</string>
+    <string name="top_bar_back">Atrás</string>
+    <string name="game_list_btn_decription">Abrir Categorías</string>
+    <string name="game_list_empty_list">No hay Juegos Disponibles</string>
+</resources>
